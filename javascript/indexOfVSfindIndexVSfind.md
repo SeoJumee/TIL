@@ -2,7 +2,7 @@
 
 **`indexOf` 는 원하는 항목이 몇번째 원소인지 찾아주는 함수이다.**
 
-`indexOf` 함수는, 문자열(string)에서 특정 문자열(searchvalue)을 찾고,
+`indexOf` 함수는, 문자열(string)이나 배열에서 특정 문자열(searchvalue)을 찾고,
 검색된 문자열이 '첫번째'로 나타나는 위치 index를 리턴한다.
 
 `string.indexOf(searchvalue, position)`
