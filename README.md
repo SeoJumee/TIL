@@ -15,3 +15,5 @@ Today I Learned 🐨
 - [filter](./javascript/filter.md)
 
 - [map](./javascript/map.md)
+
+- [indexOf와 findIndex와 find](./javascript/indexOfVSfindIndexVSfind.md)
