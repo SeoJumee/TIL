@@ -13,3 +13,5 @@ Today I Learned 🐨
 - [CSR과 SSR](./browser/CSRvsSSR.md)
 
 - [filter](./javascript/filter.md)
+
+- [map](./javascript/map.md)
