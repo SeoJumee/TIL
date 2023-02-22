@@ -1,6 +1,7 @@
 ## CSR (Client Side Rendering)
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jJkEQpgZ8waQ5P-W5lhxuQ.png">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CRiH0hUGoS3aoZaIY4H2yg.png">
+
 1. HTML 다운<br />
 2. JS 다운 <br />
 3. React web app 소스코드를 로드해서 실행 (화면에 보이지 않음) <br />
@@ -11,7 +12,7 @@
 
 ## SSR(Server Side Rendering)
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CRiH0hUGoS3aoZaIY4H2yg.png">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jJkEQpgZ8waQ5P-W5lhxuQ.png">
 
 1. 이미 표현되어있는 HTML 다운 (화면에 보임)
 2. JS를 다운받을 때 화면은 보이지만 기능 동작 안함
