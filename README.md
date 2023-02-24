@@ -29,3 +29,7 @@ Today I Learned 🐨
 - [indexOf와 findIndex와 find](./javascript/indexOfVSfindIndexVSfind.md)
 
 - [ceil과 floor와 round](./javascript/ceilVSfloorVSround.md)
+
+#### React
+
+- [useParams](./React/useParams.md)
