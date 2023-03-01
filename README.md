@@ -33,3 +33,5 @@ Today I Learned 🐨
 #### React
 
 - [useParams](./React/useParams.md)
+
+- [useNavigate](./React/useNavigate.md)
