@@ -37,3 +37,5 @@ Today I Learned 🐨
 - [useNavigate](./React/useNavigate.md)
 
 - [useEffect](./React/useEffect.md)
+
+- [useMemo](./React/useMemo.md)
