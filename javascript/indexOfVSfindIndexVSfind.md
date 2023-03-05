@@ -21,7 +21,7 @@
 
 토르가 몇번째 항목인지 알고싶다면 이렇게 입력 할 수 있다.
 
-```
+```JS
 const superheroes = ['아이언맨', '캡틴 아메리카', '토르', '닥터 스트레인지'];
 const index = superheroes.indexOf('토르');
 console.log(index);
@@ -50,7 +50,7 @@ index 값은 0 부터 시작하기 때문에 0: 아이언맨 1: 캡틴 아메리
 
 예를 들어서 다음과 같은 배열이 있다고 가정해보자.
 
-```
+```JS
 const todos = [
   {
     id: 1,
@@ -77,7 +77,7 @@ const todos = [
 
 여기서 만약 id 가 3 인 객체가 몇번째인지 찾으러면, findIndex 함수에 검사하고자 하는 조건을 반환하는 함수를 넣어서 찾을 수 있다.
 
-```
+```JS
 const todos = [
   {
     id: 1,
@@ -122,7 +122,7 @@ find 함수는 findIndex 랑 비슷한데, 찾아낸 값이 몇번째인지 알�
 - 원하는 요소 찾기
 - 원하는 요소를 찾자마자 메서드를 종료함
 
-```
+```JS
 const todos = [
   {
     id: 1,
@@ -152,6 +152,6 @@ console.log(todo);
 
 결과는 다음과 같다.
 
-```
+```JS
 {id: 3, text: "객체와 배열 배우기", done: true}
 ```

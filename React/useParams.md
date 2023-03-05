@@ -12,7 +12,7 @@
 
 **예제**
 
-```
+```JS
 import { useParams } from 'react-router-dom';
 
 function App() {

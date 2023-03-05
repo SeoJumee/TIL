@@ -22,7 +22,7 @@ callbackFunction은 currentValue, index, array 3개의 매개변수를 갖는다
 
 **for문**
 
-```
+```JS
 const array = [1, 2, 3, 4, 5, 6, 7, 8];
 
 const squared = [];
@@ -37,7 +37,7 @@ console.log(squared);
 
 **forEach**
 
-```
+```JS
 const array = [1, 2, 3, 4, 5, 6, 7, 8];
 
 const squared = [];
@@ -57,7 +57,7 @@ console.log(squared);
 
 **map**
 
-```
+```JS
 const array = [1, 2, 3, 4, 5, 6, 7, 8];
 
 const square = n => n * n;
@@ -75,7 +75,7 @@ array.map 함수를 사용 할 때 square 를 변화를 주는 함수로 사용�
 그런데 변화를 주는 함수를 꼭 이름을 붙여서 선언 할 필요는 없다.
 코드를 다음과 같이 작성할 수 있다.
 
-```
+```JS
 const squared = array.map(n => n * n);
 console.log(squared);
 ```

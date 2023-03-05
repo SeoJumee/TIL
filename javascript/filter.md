@@ -18,7 +18,7 @@ callbackFunction에는 3개의 매개변수를 사용할 수 있다.
 
 예제로 todos 배열에서 done 값이 false 인 항목들만 따로 추출해서 새로운 배열을 만들어보면
 
-```
+```JS
 const todos = [
   {
     id: 1,
@@ -48,7 +48,7 @@ console.log(tasksNotDone);
 
 결과는 다음과 같다.
 
-```
+```JS
 [
   {
     id: 4,

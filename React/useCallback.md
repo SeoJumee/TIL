@@ -6,7 +6,7 @@
 
 첫번째 인자로 넘어온 **함수**를, 두번째 인자로 넘어온 **배열 내의 값**이 변경될 때까지 저장해놓고 재사용할 수 있게 해줍니다.
 
-```
+```JS
 const memoizedCallback = useCallback(함수, 배열);
 ```
 
@@ -19,7 +19,7 @@ const memoizedCallback = useCallback(함수, 배열);
 나중에 컴포넌트에서 props 가 바뀌지 않았으면 Virtual DOM 에 새로 렌더링하는 것 조차 하지 않고
 컴포넌트의 결과물을 재사용 하는 최적화 작업을 하기 위해 **함수를 재사용**하는것이 필수이다.
 
-```
+```JS
 const onToggle = useCallback(
     id => {
       setUsers(
@@ -42,7 +42,7 @@ props 로 받아온 함수가 있다면, 이 또한 deps 에 넣어주어야 한
 사실, useCallback 은 useMemo 를 기반으로 만들어졌다.
 다만, 함수를 위해서 사용 할 때 더욱 편하게 해준 것 뿐이고 이런식으로도 표현 할 수 있다.
 
-```
+```JS
 const onToggle = useMemo(
   () => () => {
     /* ... */

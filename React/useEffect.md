@@ -23,7 +23,7 @@ cleanup 함수는 useEffect 에 대한 뒷정리를 해준다고 이해할 수 �
 
 <br />
 
-```
+```JS
 function User({ user, onRemove, onToggle }) {
   useEffect(() => {
     console.log('컴포넌트가 화면에 나타남');

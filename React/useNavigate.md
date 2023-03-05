@@ -6,7 +6,7 @@ useNavigate는 양식이 제출되거나 특정 event가 발생할 때, url을 �
 
 </br>
 
-```
+```JS
 import { useNavigate } from 'react-router-dom';
 
 function Func() {
@@ -42,7 +42,7 @@ export default Func;
 
 아래 예제코드는, 버튼을 클릭하면 '/test' 경로로 이동하면서 id, job을 인자로 넘긴다.
 
-```
+```JS
 import { useNavigate } from 'react-router-dom';
 
 export default function Test() {
@@ -77,7 +77,7 @@ export default function Test() {
 
 아래 예제코드는 전달 받은 id와 job을 취득하여 화면에 표시한다.
 
-```
+```JS
 import { useLocation } from 'react-router-dom';
 
 export default function Test2() {
@@ -101,7 +101,7 @@ export default function Test2() {
 
 **타입스크립트**의 경우, state의 타입이 unknown이므로 아래와 같이 타입을 지정해주면 된다.
 
-```
+```JS
 import { useLocation } from 'react-router-dom';
 
 export default function Test2() {
@@ -125,7 +125,7 @@ export default function Test2() {
 useNavigate는 react v6 에서 useHistory 가 변화한 것이다.
 이 때 useHistory 에서 사용하던, window의 history 를 이용한 navigate 기능도 할 수 있게 되었다.
 
-```
+```JS
 <>
   <button onClick={() => navigate(-2)}>
     Go 2 pages back

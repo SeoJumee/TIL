@@ -8,7 +8,7 @@ useMemo에서 memo는 memoization을 뜻하는데 이것은 ‘메모리에 넣�
 
 <br />
 
-```
+```JS
 function Component() {
     const value = calculate();
     return <div>{value}</div>
@@ -31,7 +31,7 @@ useMemo는 위에 말했듯이 처음에 계산된 값을 메모리에 저장해
 
 #### useMemo 구조
 
-```
+```JS
 const value = useMemo(() => {
 return calculate();
 },[item])
