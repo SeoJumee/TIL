@@ -30,6 +30,8 @@ Today I Learned 🐨
 
 - [ceil과 floor와 round](./javascript/ceilVSfloorVSround.md)
 
+- [spread와 rest](./React/../javascript/spreadVSrest.md)
+
 #### React
 
 - [useParams](./React/useParams.md)
