@@ -20,6 +20,8 @@ Today I Learned 🐨
 
 - [CSR과 SSR](./browser/CSRvsSSR.md)
 
+- [get과 post의 차이](./browser/getVSpost)
+
 #### javascript
 
 - [filter](./javascript/filter.md)
