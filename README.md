@@ -8,9 +8,9 @@ Today I Learned 🐨
 
 #### internet
 
-- [인터넷 동작 원리](./internet/internet.md)
+- [인터넷 동작 원리](./Internet/internet.md)
 
-- [HTTP와 HTTPS](./internet/httpVShttps.md)
+- [HTTP와 HTTPS](./Internet/httpVShttps.md)
 
 #### CS
 
