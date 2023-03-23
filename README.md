@@ -38,6 +38,8 @@ Today I Learned 🐨
 
 - [hoisting](./javascript/hoisting.md)
 
+- [closure](./javascript/closure.md)
+
 #### React
 
 - [useParams](./React/useParams.md)
