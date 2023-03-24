@@ -40,6 +40,8 @@ Today I Learned 🐨
 
 - [closure](./javascript/closure.md)
 
+- [scope](./javascript/scope.md)
+
 #### React
 
 - [useParams](./React/useParams.md)
