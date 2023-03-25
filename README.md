@@ -42,6 +42,8 @@ Today I Learned 🐨
 
 - [scope](./javascript/scope.md)
 
+- [useState](./javascript/useState.md)
+
 #### React
 
 - [useParams](./React/useParams.md)
