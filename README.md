@@ -42,6 +42,8 @@ Today I Learned 🐨
 
 - [scope](./javascript/scope.md)
 
+- [구조 분해 할당](./javascript/DestructuringAssignment.md)
+
 #### React
 
 - [useParams](./React/useParams.md)
