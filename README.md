@@ -42,8 +42,6 @@ Today I Learned 🐨
 
 - [scope](./javascript/scope.md)
 
-- [useState](./javascript/useState.md)
-
 #### React
 
 - [useParams](./React/useParams.md)
@@ -57,3 +55,5 @@ Today I Learned 🐨
 - [useCallback](./React/useCallback.md)
 
 - [조건부 렌더링](./React/ConditionalRendering.md)
+
+- [useState](./React/useState.md)
