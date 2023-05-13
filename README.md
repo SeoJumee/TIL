@@ -44,6 +44,8 @@ Today I Learned 🐨
 
 - [구조 분해 할당](./javascript/DestructuringAssignment.md)
 
+- [이벤트 버블링](./javascript/EventBubbling.md)
+
 #### React
 
 - [useParams](./React/useParams.md)
